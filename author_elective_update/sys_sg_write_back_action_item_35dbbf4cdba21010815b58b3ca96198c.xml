@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_write_back_action_item">
+    <sys_sg_write_back_action_item action="DELETE">
+        <description>Action Item to create NeedIt records</description>
+        <execution_script/>
+        <name>Create NeedIt</name>
+        <query_condition/>
+        <sys_class_name>sys_sg_write_back_action_item</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-08-06 08:07:22</sys_created_on>
+        <sys_id>35dbbf4cdba21010815b58b3ca96198c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Create NeedIt</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_sg_write_back_action_item_35dbbf4cdba21010815b58b3ca96198c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-08-06 08:07:22</sys_updated_on>
+        <table>x_58872_needit_needit</table>
+        <template/>
+        <type>update</type>
+        <use_current_record_as_condition>true</use_current_record_as_condition>
+    </sys_sg_write_back_action_item>
+    <sys_translated_text action="DELETE" query="documentkey=35dbbf4cdba21010815b58b3ca96198c"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>2c5facb7dbd75b44b2e05d00cf9619c0</instance_id>
+        <instance_name>dev66244</instance_name>
+        <name>sys_sg_write_back_action_item_35dbbf4cdba21010815b58b3ca96198c</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_write_back_action_item"><sys_sg_write_back_action_item action="INSERT_OR_UPDATE"><description>Action Item to create NeedIt records</description><execution_script/><name>Create NeedIt</name><query_condition/><sys_class_name>sys_sg_write_back_action_item</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-08-06 08:07:22</sys_created_on><sys_id>35dbbf4cdba21010815b58b3ca96198c</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Create NeedIt</sys_name><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_sg_write_back_action_item_35dbbf4cdba21010815b58b3ca96198c</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-08-06 08:07:22</sys_updated_on><table>x_58872_needit_needit</table><template/><type>update</type><use_current_record_as_condition>true</use_current_record_as_condition></sys_sg_write_back_action_item><sys_translated_text action="delete_multiple" query="documentkey=35dbbf4cdba21010815b58b3ca96198c"/></record_update>]]></payload>
+        <payload_hash>1947872522</payload_hash>
+        <record_name>Create NeedIt</record_name>
+        <reverted_from/>
+        <source>851aafccdb621010815b58b3ca961994</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-08-06 08:07:22</sys_created_on>
+        <sys_id>b8fb338cdba21010815b58b3ca961996</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>173c2cf73b10000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-08-06 08:07:22</sys_updated_on>
+        <type>Action item</type>
+        <update_guid>f0fb338c6ba21010ed667077b0e87a96</update_guid>
+        <update_guid_history>f0fb338c6ba21010ed667077b0e87a96:1947872522</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-08-06 08:08:17</sys_created_on>
+        <sys_db_object display_value="" name="sys_sg_write_back_action_item">sys_sg_write_back_action_item</sys_db_object>
+        <sys_id>01e5c50085064c3698fffe6dc88d7084</sys_id>
+        <sys_metadata>35dbbf4cdba21010815b58b3ca96198c</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Create NeedIt</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_sg_write_back_action_item_35dbbf4cdba21010815b58b3ca96198c</sys_update_name>
+        <sys_update_version display_value="sys_sg_write_back_action_item_35dbbf4cdba21010815b58b3ca96198c">b8fb338cdba21010815b58b3ca961996</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-08-06 08:08:17</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
